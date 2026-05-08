@@ -301,3 +301,6 @@ All errors return a consistent JSON shape:
 | 409 | Email already registered |
 | 502 | External NewsAPI call failed |
 | 500 | Unexpected server error |
+
+# Test Results
+![alt text](image.png)
