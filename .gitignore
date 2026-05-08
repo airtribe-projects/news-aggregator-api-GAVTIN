@@ -1,2 +1,7 @@
-node_modules
-.tap
+node_modules/
+.env
+data/
+tests/test-data*/
+coverage/
+*.log
+.DS_Store
